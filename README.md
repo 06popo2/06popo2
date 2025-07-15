@@ -21,4 +21,4 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=06popo2&color=blue)
 
 
-![banner]([https://your-image-url.com/banner.png](https://i.namu.wiki/i/eO46Cop5oqBCK4jQxuufCVPFBdsnswVNlXN_S7Ja5_kb7hYd8qpMJEAnpO5ko-ilUgrES_2vSXAmwlklls-GxQ.webp))
+![banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EB%258F%2584%25EB%25A1%259C%25EB%25A1%25B1&psig=AOvVaw06tGxUPCPzkF4KFvurMo5P&ust=1752646216717000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLix64qavo4DFQAAAAAdAAAAABAE)

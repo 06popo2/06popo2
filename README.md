@@ -19,7 +19,3 @@
 
 ## ✨ 방문자 수
 ![Visitor Count](https://komarev.com/ghpvc/?username=06popo2&color=blue)
-
-
-![banner](![Uploading image.png…]()
-)

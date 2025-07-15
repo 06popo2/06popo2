@@ -21,4 +21,5 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=06popo2&color=blue)
 
 
-![나무위키 로고](https://i.namu.wiki/i/eO46Cop5oqBCK4jQxuufCVPFBdsnswVNlXN_S7Ja5_kb7hYd8qpMJEAnpO5ko-ilUgrES_2vSXAmwlklls-GxQ.webp)
+![이미지](https://dn-img-page.kakao.com/download/resource?kid=cOK5B/hAdNYF90Xh/OykORKTjx41n9ir8OfhV7k&filename=th3)
+

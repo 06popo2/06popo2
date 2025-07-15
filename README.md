@@ -1,6 +1,6 @@
 # 👋 안녕하세요, 06popo2입니다!
 
-군산대 / 소프트웨어학부 재학중인 25학번 이민재입니다.
+군산대 / 컴퓨터소프트웨어특성화대학 / 25학번
 
 🌱 현재 코딩을 공부하고 있어요.  
 💬 **JavaScript**, **Git**, **Python**에 대해 더 알고 싶어요!  
@@ -19,3 +19,6 @@
 
 ## ✨ 방문자 수
 ![Visitor Count](https://komarev.com/ghpvc/?username=06popo2&color=blue)
+
+
+![banner]([https://your-image-url.com/banner.png](https://i.namu.wiki/i/eO46Cop5oqBCK4jQxuufCVPFBdsnswVNlXN_S7Ja5_kb7hYd8qpMJEAnpO5ko-ilUgrES_2vSXAmwlklls-GxQ.webp))

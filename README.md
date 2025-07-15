@@ -21,5 +21,5 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=06popo2&color=blue)
 
 
-![banner](<img width="216" height="206" alt="image" src="https://github.com/user-attachments/assets/113b594d-44e1-4793-bc79-073ebcd18b72" />
+![banner](![Uploading image.png…]()
 )

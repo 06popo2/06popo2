@@ -21,4 +21,5 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=06popo2&color=blue)
 
 
-![banner](C:\Users\Owner\Downloads\다운로드.png)
+![banner](<img width="225" height="225" alt="다운로드" src="https://github.com/user-attachments/assets/2047510a-0b41-4c42-8cc8-c4fe3d88876a" />)
+
